@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhay Kumar  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2F80ED&center=true&vCenter=true&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2F80ED&center=true&vCenter=true&lines=Software+Engineer+Trainee;Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar0734)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaykumar0734@gmail.com)
@@ -8,8 +8,9 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Currently working on: **Smart Monitoring Project**  
-- 🌱 Learning: **Django | Cloud Deployment | Timescale DB**  
+- 💼 Currently working as: **Software Engineer Trainee at Cilio Automation Factory, Noida (U.P.)**  
+- 🔭 Working on: **Smart Monitoring Project**  
+- 🌱 Learning: **Django | Cloud Deployment | TimescaleDB**  
 - 💡 Open to collaborate on: **AI & Web Development Projects**  
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/abhay-kumar0734) | [Email](mailto:abhaykumar0734@gmail.com)  
 
@@ -19,6 +20,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,django,postgres,vscode,git,github" />
 </p>
+
 ---
 
 ## ⚡ Featured Projects  
@@ -32,7 +34,6 @@ Here are some of my highlighted repositories:
 - 💼 [Job Alerts](https://github.com/Abhaykumar-0734/job-alerts) — Python project for job notifications  
 
 ---
-
 
 ## 📊 GitHub Stats  
 <p align="center">
