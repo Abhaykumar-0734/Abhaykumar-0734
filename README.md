@@ -8,27 +8,20 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Currently working on: **Smart Monitoring System**  
-- 🌱 Learning: **Django | Cloud Deployment | DevOps Basics**  
+- 🔭 Currently working on: **Smart Monitoring Project**  
+- 🌱 Learning: **Django | Cloud Deployment | Timescale DB**  
 - 💡 Open to collaborate on: **AI & Web Development Projects**  
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/abhay-kumar0734) | [Email](mailto:abhaykumar0734@gmail.com)  
 
 ---
 
 ## 🛠️ Skills & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?logo=visual-studio-code&logoColor=white)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,postgres,vscode,git,github" />
+</p>
 ---
 
-## 🚀 Featured Projects  
+## ⚡ Featured Projects  
 Here are some of my highlighted repositories:  
 
 - 🚍 [Bus Booking System](https://github.com/Abhaykumar-0734/Bus_Booking_System) — Booking and management system using JavaScript  
@@ -40,35 +33,12 @@ Here are some of my highlighted repositories:
 
 ---
 
-## 🏆 Achievements & Certifications  
-- 📜 Certified in **Python for Data Science** (Coursera)  
-- ☁️ Completed **AWS Cloud Practitioner** Training  
-- 🥇 Active contributor in **Open Source Projects**  
-
----
-
-## ⚡ Tech I Use Daily  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,postgres,vscode,git,github" />
-</p>
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhaykumar-0734&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumar-0734&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-## 📈 Contribution Graph  
-![Abhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhaykumar-0734&theme=tokyo-night)
-
----
-
-## 💬 Quote  
-> *“Code is like humor. When you have to explain it, it’s bad.”*  
 
 ---
 
