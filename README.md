@@ -33,12 +33,4 @@ Here are some of my highlighted repositories:
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhaykumar-0734&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumar-0734&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ⭐️ From [Abhay Kumar](https://github.com/Abhaykumar-0734)
