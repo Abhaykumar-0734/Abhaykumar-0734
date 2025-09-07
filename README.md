@@ -11,7 +11,7 @@
 - 🔭 Currently working on: **Smart Monitoring System**  
 - 🌱 Learning: **Django | Cloud Deployment | DevOps Basics**  
 - 💡 Open to collaborate on: **AI & Web Development Projects**  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abhay-kumar0734) | [Email](mailto:abhaykumar0734@gmail.com)  
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/abhay-kumar0734) | [Email](mailto:abhaykumar0734@gmail.com)  
 
 ---
 
@@ -40,11 +40,30 @@ Here are some of my highlighted repositories:
 
 ---
 
+## 🏆 Achievements & Certifications  
+- 📜 Certified in **Python for Data Science** (Coursera)  
+- ☁️ Completed **AWS Cloud Practitioner** Training  
+- 🥇 Active contributor in **Open Source Projects**  
+
+---
+
+## ⚡ Tech I Use Daily  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,postgres,vscode,git,github" />
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhaykumar-0734&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumar-0734&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+## 📈 Contribution Graph  
+![Abhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhaykumar-0734&theme=tokyo-night)
 
 ---
 
