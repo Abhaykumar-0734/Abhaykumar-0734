@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Abhay Kumar  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2F80ED&center=true&vCenter=true&lines=Software+Engineer+Trainee;Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2F80ED&center=true&vCenter=true&lines=Software+Engineer;Open+Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar0734)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaykumar0734@gmail.com)
 
 ---
 
@@ -26,11 +24,11 @@
 ## ⚡ Featured Projects  
 Here are some of my highlighted repositories:  
 
-- 🚍 [Bus Booking System](https://github.com/Abhaykumar-0734/Bus_Booking_System) — Booking and management system using JavaScript  
-- 🏋️ [Gym Fitness App](https://github.com/Abhaykumar-0734/Gym_fitness_app) — Fitness tracking web application  
-- 🤖 [Chat Bot](https://github.com/Abhaykumar-0734/Chat_bot_free) — Simple chatbot built with HTML  
-- 🍫 [Awesome Chocolate Project](https://github.com/Abhaykumar-0734/Awesome-Chocolate-Project) — UI-based project  
 - 📡 [Smart Monitoring](https://github.com/Abhaykumar-0734/Smart_Monitoring) — Real-time monitoring system  
+- 🚍 [Bus Booking System](https://github.com/Abhaykumar-0734/Bus_Booking_System) — Booking and management system 
+- 🏋️ [Gym Fitness App](https://github.com/Abhaykumar-0734/Gym_fitness_app) — Fitness tracking web application  
+- 🤖 [Chat Bot](https://github.com/Abhaykumar-0734/Chat_bot_free) — Simple chatbot built with HTML & Flask
+- 🍫 [Awesome Chocolate Project](https://github.com/Abhaykumar-0734/Awesome-Chocolate-Project) — Power BI-based project  
 - 💼 [Job Alerts](https://github.com/Abhaykumar-0734/job-alerts) — Python project for job notifications  
 
 ---
