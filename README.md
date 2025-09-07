@@ -13,7 +13,7 @@ Currently focusing on **Web Development, AI tools, and Cloud Integration**.
 - 🔭 Currently working on: **Smart Monitoring System**
 - 🌱 Learning: **Django, Cloud Deployment & DevOps basics**
 - 💡 Open to collaborate on: **AI & Web Projects**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com) | [Portfolio](https://your-portfolio-link.com)  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abhay-kumar0734)
 
 ---
 
